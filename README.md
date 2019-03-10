@@ -700,15 +700,15 @@ So, if we browse to that point to the port specified before we must see somethin
   
 The image show us the two card that we created the Peer Admin Card, and the Network Admin Card, we will go inside our Business Network, clicking **Connect Now**, go to the **Test** tab.
 
-  ![Validation #2](https://image.ibb.co/iGExFp/Validation2.png)
+  ![Validation #2](https://i.ibb.co/KjVcV8X/2.png)
 
 We will add a new Participant, clicking the **Create New Participant** button in the top right.
 
-  ![Validation #3](https://image.ibb.co/bFea1U/Validation3.png)
+  ![Validation #3](https://i.ibb.co/yprYkSC/3.png)
   
 And let's click **Create New**, if everything its ok, we will see our participant in the grid.
 
-  ![Validation #4](https://image.ibb.co/k0tw89/Validation4.png)
+  ![Validation #4](https://i.ibb.co/X75sbYL/4.png)
 
 Now lets run the **docker ps** command in our first server.
   ```sh
