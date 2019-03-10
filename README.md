@@ -634,7 +634,7 @@ With that we have our Peer Admin Card created and ready for use, now we will ins
 For this of course we need a Business Network, we will take it from https://composer-playground.mybluemix.net/ here is an example Business Network, we need to export the .bna file and move it to our first server.
 **Important:** You must remember the version of the Business Network that you are exporting, you will use the version number in the commands in the future.
 
-![Basic Example](https://image.ibb.co/kKJ0GU/basic_sample.png)
+![Basic Example](https://ibb.co/kJnGbSr)
 
 In the image we see that the version number is **0.2.6**
 
