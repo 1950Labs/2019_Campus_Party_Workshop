@@ -696,7 +696,7 @@ Run this command in your first server to start an instance of the Playground API
   ```
 So, if we browse to that point to the port specified before we must see something like this.
   
-  ![Validation #1](https://i.ibb.co/j597WL9/1.png)
+  ![Validation #1](https://i.ibb.co/KGcCL9c/1.png)
   
 The image show us the two card that we created the Peer Admin Card, and the Network Admin Card, we will go inside our Business Network, clicking **Connect Now**, go to the **Test** tab.
 
