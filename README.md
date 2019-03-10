@@ -26,7 +26,7 @@ Basically we will create a Hyperledger Fabric with one orderer organization and 
     * npm install -g generator-hyperledger-composer@0.20
 	* npm install -g composer-playground@0.20
 * Download Fabric-Samples
-    * curl -sSL http://bit.ly/2ysbOFE | bash -s 1.2.0 1.2.0 0.4.10
+    * curl -sSL http://bit.ly/2ysbOFE | bash -s 1.4.0 1.4.0 0.4.14
 
 ## Let's start!
 We will start en our first server or machine, so I will asume that you downloaded all the prerequisites in that machine
