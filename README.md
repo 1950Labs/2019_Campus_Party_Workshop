@@ -20,6 +20,8 @@ Basically we will create a Hyperledger Fabric with one orderer organization and 
 
 ## Prerequisites
 * Install Docker (If you are not going to use Digital Ocean's droplets)
+* Update apt (If necesary)
+    * sudo apt update
 * Install npm
     * apt install npm
 * Install Composer
